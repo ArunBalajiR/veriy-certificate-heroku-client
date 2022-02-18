@@ -302,7 +302,7 @@ handleSubmit = e => {
                         </div>
                         <div className="flex-1 mx-8">
                         <div>Verify Authenticity at&nbsp;&nbsp;&nbsp;</div>
-                            <div><a href="www.arunbalaji.tech"><strong>dcertverify.herokuapp.com</strong></a></div>
+                            <div><a href="https://dcertverify.herokuapp.com"><strong>dcertverify.herokuapp.com</strong></a></div>
                         </div>
                       </div>  
                     </div>
